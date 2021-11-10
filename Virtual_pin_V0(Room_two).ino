@@ -11,8 +11,8 @@ char auth[] = "3zGoYGvlMPV7t78AfhhsHL0tKBMy0ekC";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "patelcm";
-char pass[] = "Chirag@1980";
+char ssid[] = "******";
+char pass[] = "*********";
 String stringone,stringtwo;
 
 BLYNK_CONNECTED()
